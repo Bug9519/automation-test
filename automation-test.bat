@@ -29,3 +29,7 @@ git commit -am "Daily update."
 echo Files should be updated on github.com
 ping -n 6 localhost > nul
 cls
+git push
+echo If no errors, then it should be finished.
+ping -n 6 localhost > nul
+cls
