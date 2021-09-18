@@ -9,3 +9,6 @@ Each file will contain:
 DDMMYYYY - Date
 HHMMSS - Time (24Hour)
 12011 - Random Number
+
+Update 19/09/2021 - Going to archive this repo, as I forgot to keep the task running each day, and it lapsed in the uploads...
+Everything still works, but I just can't be bothered to keep it running all the time.
